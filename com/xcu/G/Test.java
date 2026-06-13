@@ -2,7 +2,7 @@ package com.xcu.G;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("第二版");
+        System.out.println("第三版");
     }
 
 }
